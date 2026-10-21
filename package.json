@@ -1,0 +1,13 @@
+{
+  "name": "bot-conquista-las-casas",
+  "version": "1.0.0",
+  "description": "Bot para el juego Guerra de Caballeros",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
